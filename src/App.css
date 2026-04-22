@@ -1,0 +1,8 @@
+/* Minimal reset - Swiss Brutalist */
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  min-height: 100vh;
+}
